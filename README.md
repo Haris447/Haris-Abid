@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haris447
+- 👋 Hi, I’m Haris Abid
 - 👀 I’m interested in Wordpress,Graphic designing,Content writing and data entry.
 - 🌱 I’m currently learning Web development..
 
