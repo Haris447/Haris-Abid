@@ -35,6 +35,6 @@
 
 <p>Take a glimpse into the "Graphic Design" folder to witness the fusion of creativity and aesthetics.</p>
 <h2>Let's Collaborate!</h2>
-<p>I'm always open to exciting projects and collaborations. If you're looking for a passionate developer with a knack for SEO and an eye for design, let's connect! Feel free to reach out to me via <a href="harissatti445@gmail.com">email@example.com</a> or connect with me on <a href="www.linkedin.com/in/haris-satti-39b841250/">LinkedIn</a>.</p>
+<p>I'm always open to exciting projects and collaborations. If you're looking for a passionate developer with a knack for SEO and an eye for design, let's connect! Feel free to reach out to me via <a href="harissatti445@gmail.com">email@example.com</a> or connect with me on <a href="https://www.linkedin.com/in/haris-satti-39b841250">LinkedIn</a>.</p>
 <p>Thank you for exploring my repository. Let's build something incredible together! 🌟</p>
 
